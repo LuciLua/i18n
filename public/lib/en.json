@@ -1,0 +1,14 @@
+{
+    "home": {
+        "subtitle": "internalization",
+        "label": "language",
+        "language": "language: EN",
+        "text": "Next.js internationalization (i18n) with the Pages Router",
+        "btn_to_about": "About"
+    },
+    "about": {
+        "title": "About",
+        "text": "In the digital age, having a strong online presence is crucial for businesses and individuals alike. Our website creation service is designed to empower you with a dynamic and visually appealing online platform that effectively represents your brand or personal identity. Our team of skilled and experienced web designers is dedicated to crafting custom websites tailored to your specific needs and preferences. Whether you are launching a new business, showcasing your portfolio, or creating a blog, we have the expertise to bring your vision to life. We prioritize user-friendly design, ensuring that your website not only looks stunning but also provides a seamless and enjoyable experience for visitors. From responsive layouts that adapt to various devices to intuitive navigation, we strive to enhance the accessibility and usability of your online presence. Our website creation process is collaborative, involving close communication with you to understand your goals and incorporate your feedback. We aim to create websites that not only meet but exceed your expectations, reflecting the uniqueness of your brand and capturing the attention of your target audience. Let us transform your ideas into a captivating online reality. With our website creation service, you can establish a strong digital footprint, connect with your audience, and make a lasting impact in the online world.",
+        "btn_back_to_home": "back to home"
+    }
+}

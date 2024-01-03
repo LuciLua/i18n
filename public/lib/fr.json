@@ -1,0 +1,14 @@
+{
+    "home": {
+        "subtitle": "internalisation",
+        "label": "langue",
+        "language": "language: FR",
+        "text": "Internationalisation Next.js (i18n) avec le Pages Router",
+        "btn_to_about": "À propos"
+    },
+    "about": {
+        "title": "À propos",
+        "text": "Dans l'ère numérique, avoir une présence en ligne solide est essentiel tant pour les entreprises que pour les individus. Notre service de création de sites web est conçu pour vous fournir une plateforme en ligne dynamique et visuellement attrayante qui représente efficacement votre marque ou votre identité personnelle. Notre équipe de concepteurs web qualifiés et expérimentés est dédiée à la création de sites web sur mesure adaptés à vos besoins et préférences spécifiques. Que vous lanciez une nouvelle entreprise, présentiez votre portfolio ou créiez un blog, nous avons l'expertise nécessaire pour donner vie à votre vision. Nous accordons une priorité à la conception conviviale, veillant à ce que votre site web soit non seulement magnifique, mais offre également une expérience fluide et agréable aux visiteurs. Des mises en page réactives s'adaptant à divers appareils à une navigation intuitive, nous nous efforçons d'améliorer l'accessibilité et la convivialité de votre présence en ligne. Notre processus de création de sites web est collaboratif, impliquant une communication étroite avec vous pour comprendre vos objectifs et intégrer vos commentaires. Nous visons à créer des sites web qui non seulement répondent, mais dépassent vos attentes, reflétant l'unicité de votre marque et capturant l'attention de votre public cible. Laissez-nous transformer vos idées en une réalité en ligne captivante. Avec notre service de création de sites web, vous pouvez établir une empreinte numérique solide, vous connecter avec votre public et avoir un impact durable dans le monde en ligne.",
+        "btn_back_to_home": "retour à la maison"
+    }
+}

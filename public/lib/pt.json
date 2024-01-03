@@ -1,0 +1,14 @@
+{
+    "home": {
+        "subtitle": "internacionalização",
+        "label": "linguagem",
+        "language": "linguagem: PT",
+        "text": "Internacionalização Next.js (i18n) com o Pages Router",
+        "btn_to_about": "Sobre"
+    },
+    "about": {
+        "title": "Sobre",
+        "text": "Na era digital, ter uma presença online forte é crucial para empresas e indivíduos. Nosso serviço de criação de sites foi desenvolvido para proporcionar a você uma plataforma online dinâmica e visualmente atrativa, que representa efetivamente sua marca ou identidade pessoal. Nossa equipe de designers web qualificados e experientes está dedicada a criar sites personalizados adaptados às suas necessidades e preferências específicas. Se você está lançando um novo negócio, exibindo seu portfólio ou criando um blog, temos a expertise necessária para dar vida à sua visão. Priorizamos o design amigável ao usuário, garantindo que seu site não apenas tenha uma aparência deslumbrante, mas também proporcione uma experiência contínua e agradável para os visitantes. Desde layouts responsivos que se adaptam a vários dispositivos até navegação intuitiva, buscamos aprimorar a acessibilidade e usabilidade de sua presença online. Nosso processo de criação de sites é colaborativo, envolvendo uma comunicação próxima com você para compreender seus objetivos e incorporar seus comentários. Nosso objetivo é criar sites que não apenas atendam, mas superem suas expectativas, refletindo a singularidade de sua marca e capturando a atenção do seu público-alvo. Deixe-nos transformar suas ideias em uma realidade online cativante. Com nosso serviço de criação de sites, você pode estabelecer uma forte presença digital, conectar-se com seu público e causar um impacto duradouro no mundo online.",
+        "btn_back_to_home": "Voltar"
+    }
+}
