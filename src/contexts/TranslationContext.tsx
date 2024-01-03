@@ -24,16 +24,14 @@ export function TranslationContextProvider({ children, params }) {
 
     const pathname_split = pathname.split('/')
     pathname_split[1] = lang
-    const novoPathname = pathname_split.join('/');
-    // router.push(novoPathname)
-
+    const currentPathname = pathname_split.join('/');
 
     useEffect(() => {
         setTranslation(translations)
     }, [translation])
 
     return (
-        <TranslationContext.Provider value={{ translations, setTranslation, lang, novoPathname }}>
+        <TranslationContext.Provider value={{ translations, setTranslation, lang, currentPathname }}>
             {children}
         </TranslationContext.Provider>
     )
